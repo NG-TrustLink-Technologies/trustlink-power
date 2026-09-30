@@ -1,0 +1,19 @@
+# Go
+backend/bin/
+backend/*.exe
+backend/*.out
+
+# Environment files
+.env
+.env.*
+
+# IDE
+.vscode/
+
+# Android
+android/.gradle/
+android/local.properties/
+android/build/
+
+# OS
+.DS_Store
