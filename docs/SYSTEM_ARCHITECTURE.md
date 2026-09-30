@@ -65,7 +65,7 @@ The system architecture is designed around the following goals:
                      |                                    |
                      |                                    |
 
-          Smartphone Battery System              Electric Mobility Systems
+          Smartphone Battery System              Electric Mobility battery Systems/EV Battery System
 
                      |                                    |
                      |                                    |
